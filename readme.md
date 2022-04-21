@@ -4,7 +4,7 @@
 
 #### 1. Is it fundamentally necessary to store on disk the information about the unallocated disk sectors? Explain why.
 
-
+- no 
 
 #### 2. In some early release of an operating system, when a file was deleted, its sectors reverted to the free list but they were not erased. What problems do you think may result from this? Why do you think the blocks were not erased?
 
