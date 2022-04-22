@@ -20,4 +20,4 @@
 
 #### 5. Can we implement symbolic links in DOS (FAT file system)? If so, show how, and if not, explain why.
 
-<p> We could inplement symbolic links in DOS by  </p> 
+<p> We could inplement symbolic links in DOS by first creating and storing a symbolic name then you would have to recognize the name as something that is used for a link. We need this to ensure not everything is a link. Then you would be able to open the file associated with the name and link.   </p> 
